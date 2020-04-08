@@ -1,0 +1,20 @@
+﻿Group Members: Amanda Blair, Cole DeVoy, Zechariah White
+Github Repository Name: ACZ_Python_Phinal
+
+
+Topic: Trends in European Sentiment toward China during the 2019-20 COVID Outbreak
+
+
+COVID-19, a respiratory illness caused by the novel SARS-CoV-2 virus, was first reported in the central Chinese city of Wuhan in late 2019 and rapidly spread around the planet - with the World Health Organization declaring a global health emergency in the first months of 2020. The spread of the disease has been accompanied by the proliferation of various, oftentimes quite strong, measures aimed at containing national-level outbreaks, from travel bans to full-blown shelter-at-home orders. These measures, like the illness that has prompted their implementation, were first presented to a global audience from within China before gaining wide international acceptance.
+
+
+As “ground zero” for the present outbreak, China initially received widespread criticism for various aspects of its response - from its burying of information related to the virus (including its silencing of now-deceased physician and whistleblower Dr. Li Wenliang) to the perceived heavy-handedness of its forced quarantine of Wuhan and its environs. Having begun to emerge from the most “critical” phase of its initial outbreak, however, China has acted rapidly to rehabilitate its international reputation through large-scale foreign aid, especially medical supply donations. This comes at the same time that the world’s preeminent power, the United States, finds its federal government bungling its own outbreak response in the midst of a quickly-approaching “peak” in COVID-19 cases.
+
+
+Our project will analyze the trends in European sentiment toward China since the beginning of the outbreak in 2019, with a specific focus on what sorts of “changes” - or lack thereof - have come about as the COVID-19 outbreak has progressed. This will shed light on whether Chinese efforts to restore its world standing have been successful, with broad implications for the ongoing competition for international influence between China and the United States in the aftermath of the pandemic’s aftermath. This dimension will be accentuated by our project’s focus on Europe, traditionally viewed as the United States’ “backyard” and the presence of the greatest number of its post-Second World War allies. (Our countries of focus, listed below, are all members of the North Atlantic Treaty Organization - the backbone of the United States’ security presence in Europe.)
+
+
+To conduct our analysis, our project will use Python to scrape the web pages of the top 5 major newspapers in each of these countries for articles containing such key words as “China” and “Beijing” within a date range of 1 December 2019 to the present. We will then use a Python package such as LIWC to run a sentiment analysis of these articles, with a focus on changes in this sentiment across time and country. We will use our sentiment analysis to create basic visualizations that will assist in our understanding of the potential effect of COVID-19 on these countries’ attitudes towards China over time. We plan to demonstrate how the general sentiment of each country changes based on factors such as when the first case is detected in the country, how severe the outbreak is, the effectiveness of the response, and whether or not the country receives aid from China. In addition, we plan to explore differences between publications within each country based on, for example, the publications’ respective political orientations.
+
+
+Countries of focus: Italy (Cole), Spain (Amanda), Germany (All), Turkey (Zach)
